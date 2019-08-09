@@ -1,0 +1,17 @@
+# ---
+# CAREFUL
+# ---
+
+# This file contains the list of addresses to use
+#
+# Follow this template:
+#   name: address (from google maps)
+# Example:
+#   Apple: Infinite Loop, Cupertino, CA 95014, USA
+
+# ------------------------------------------------
+
+Apple: Infinite Loop, Cupertino, CA 95014, USA
+Bill.com: 1810 Embarcadero Rd, Palo Alto, CA 94303, USA
+Chavez: 46 Fifth Ave, Redwood City, CA 94063, USA
+Google: 1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA
